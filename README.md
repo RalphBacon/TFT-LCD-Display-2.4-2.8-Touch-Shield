@@ -5,7 +5,7 @@ Using a colour touch screen may seem daunting but with the right library and exa
   
 I'll show you how to get started with a very popular variant of the TFT touch screen, including how to make a "button" (spoiler alert: it's not a button just an area of screen that looks like one, that you can then receive touches from). 
   
-It's cheap, easy and allows you to dispense with physical buttons and switches on your project's front panel
+It's cheap, easy and allows you to dispense with physical buttons and switches on your project's front panel too!
 
 
 LINKS
