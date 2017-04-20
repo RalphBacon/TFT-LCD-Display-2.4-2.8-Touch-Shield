@@ -1,5 +1,18 @@
 # TFT-LCD-Display-2.4-2.8-Touch-Shield
-Simple sketch to show how to use a SPFD5408-based TFT LCD Touch Screen
+Simple demo sketch to show how to use a SPFD5408-based TFT LCD 2.4" or 2.8" Touch Screen.
+
+Using a colour touch screen may seem daunting but with the right library and example code it can add a WOW factor to your projects.
+  
+I'll show you how to get started with a very popular variant of the TFT touch screen, including how to make a "button" (spoiler alert: it's not a button just an area of screen that looks like one, that you can then receive touches from). 
+  
+It's cheap, easy and allows you to dispense with physical buttons and switches on your project's front panel
+
+
+
+
+
+
+LINKS
 
 2.4 Inch TFT LCD Shield Touch Board Display Module For Arduino UNO (Banggood)  
 http://www.banggood.com/2_4-Inch-TFT-LCD-Shield-Touch-Board-Display-Module-For-Arduino-UNO-p-940735.html  
